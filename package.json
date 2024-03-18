@@ -4,7 +4,7 @@
   "author": "Prem",
   "version": "1.0.0",
   "main": "index.js",
-  "engines" : { "node" : ">=18" },
+  "engines" : { "node" : ">=16" },
   "license": "MIT",
   "repository": {
     "type": "git",
