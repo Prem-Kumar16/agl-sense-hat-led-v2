@@ -2,9 +2,11 @@
   "name": "agl-sense-hat-led-v2",
   "description": "Control your sense hat led matrix with node",
   "author": "Prem",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
-  "engines": { "node": ">=16" },
+  "engines": {
+    "node": ">=16"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
